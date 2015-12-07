@@ -27,3 +27,5 @@ word_hash = {
 	]
 }
 redis.set "test_json" Oj.dump(word_hash)
+
+#what?
